@@ -1,0 +1,17 @@
+{
+  "name": "fun-discord-bot",
+  "version": "1.0.0",
+  "description": "Fun Discord bot with moderation and music",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "ytdl-core": "^4.11.1"
+  }
+}
